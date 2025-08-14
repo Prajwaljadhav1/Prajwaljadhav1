@@ -28,15 +28,4 @@ Hi! I'm Prajwal Jadhav, a passionate learner with a strong foundation in **Java 
 - **Version Control:** Git & GitHub
 - **Web Technologies:** HTML, CSS, JavaScript (Basic)
 
-## 🌱 Projects
 
-I actively build projects to apply my knowledge and improve my skills. Here are a few examples:
-
-1. **Java-Based Applications** (e.g., Inventory Management,Nav buy sell tool )
-
-
-
-
-
-
-⭐ **Open to collaborations, internships, and opportunities to grow as a developer!**
